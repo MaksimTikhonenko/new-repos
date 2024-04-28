@@ -189,11 +189,5 @@
 #try:
     #with open('data/myfile.txt', 'r', encoding='utf-8') as file: # encoding='utf-8' - Використовується для коректної обробки тексту українською.
         #print(file.read())
-#except FileNotFoundError:
-    #print("Файл не знайдено")
 
-##print(type(X))
-
-
-
-
+#тут буде нова функція!
